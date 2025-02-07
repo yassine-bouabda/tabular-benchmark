@@ -2,7 +2,7 @@
 ---  
 ## About The Tool 
 The Tabular ML Benchmark is a tool designed to compare the performance of machine learning algorithms on tabular data. It is particularly useful for evaluating new tabular transformers.against traditional ML models. This benchmark supports both classification and regression tasks. 
-Check the results at my meduim blog 
+Check the results at my [meduim blog ](https://medium.com/@bouabdallaoui.yassine/tabular-data-can-transformers-outperform-traditional-ml-models-95034eb2c2ea)
 
 ## Hypothesis
 - The benchmark is based on datasets from OpenML, which have been cleaned and curated by [Inria-soda](https://huggingface.co/datasets/inria-soda/tabular-benchmark).
